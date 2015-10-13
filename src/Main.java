@@ -5,7 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		HashMap obj=new HashMap();
-//		obj.put(2, 31);
+		obj.put(2, 31);
 
 		System.out.println("getting for 2:"+obj.get(2));
 	}
